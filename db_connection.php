@@ -4,7 +4,7 @@
 	function OpenCon(){
 		$db_host = "localhost";
 		$db_user = "root";
-		$db_pass = "A$#0k96@1234";
+		$db_pass = "";
 		$db = "sensor";
 	
 	

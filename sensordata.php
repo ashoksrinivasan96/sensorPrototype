@@ -58,14 +58,18 @@ sensor prototype
 <td align="center" bgcolor="white"><input type="submit" value="Update"></td>
 <?php $_SESSION['visited'] = TRUE;?>
 </tr>
-<tr><td></td></tr>
-<tr><td></td></tr>
+</form>
+<form action="index.php" method="post">
+<tr><td><input type="submit" value="Insert Another Record"></td></tr>
+</form>
+
+
 
 
 
 
 </table>
-</form>
+
 </body>
 </html>
 
